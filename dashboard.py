@@ -27,6 +27,7 @@ import collections
 from collections import Counter
 from sklearn.preprocessing import LabelEncoder
 import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk import word_tokenize
 from nltk.tokenize import word_tokenize
