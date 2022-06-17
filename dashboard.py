@@ -14,8 +14,8 @@ import pickle as pkl
 from scipy import sparse
 
 # Data Visualization
-#import seaborn as sns
-#import matplotlib.pyplot as plt
+
+import matplotlib.pyplot as plt
 import wordcloud
 from wordcloud import WordCloud, STOPWORDS
 
