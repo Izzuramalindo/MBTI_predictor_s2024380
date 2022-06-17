@@ -278,11 +278,11 @@ istp = "Tolerant and flexible, quiet observers until a problem appears, then act
 st.set_page_config(layout="wide")
 st.markdown("<h1 style='text-align: center; color: grey;marginTop: -85px'>Welcome to MBTI Predictor</h1>", unsafe_allow_html=True)
 
-cap = "DENTIFICATION OF MYERS-BRIGGS TYPES PERSONALITY (MBTI) BASED ON ONE’S FAVORITE SONGS LYRICS USING TEXT ANALYTICS"
+cap = "IDENTIFICATION OF MYERS-BRIGGS TYPES PERSONALITY (MBTI) BASED ON ONE’S FAVORITE SONGS LYRICS USING TEXT ANALYTICS"
 
 st.sidebar.markdown(f'<p style="color:BLACK;font-weight: bold;font-size:18px;border-radius:2%;">{cap}</p>', unsafe_allow_html=True)
-str1="Student name : Izzura Malindo"
-str2="Student id : S2024380"
+str1="Student Name  : Izzura Malindo"
+str2="Student ID    : S2024380"
 
 st.sidebar.markdown(f'<p style="color:BLACK;font-weight: bold;font-size:14px;border-radius:2%;">{str1}</p>', unsafe_allow_html=True)
 st.sidebar.markdown(f'<p style="color:BLACK;font-weight: bold;font-size:14px;border-radius:2%;">{str2}</p>', unsafe_allow_html=True)
