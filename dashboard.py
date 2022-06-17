@@ -29,6 +29,7 @@ from sklearn.preprocessing import LabelEncoder
 import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('omw-1.4')
 from nltk.corpus import stopwords
 from nltk import word_tokenize
 from nltk.tokenize import word_tokenize
